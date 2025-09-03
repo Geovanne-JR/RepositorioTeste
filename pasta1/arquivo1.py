@@ -1,1 +1,1 @@
-ptinff
+print("ola mundo")
